@@ -12,7 +12,7 @@ For Android engineers nothing really changes and for iOS project we just import 
 If you plan appropriately development time can be reduced to 30–40% for iOS where they only have to write UI layer for it.
 
 
-https://miro.medium.com/max/875/1*8oCM2DzarLdysWttivqJ5g.png
+<img src="screenshots/image1.png" width="300">
 
 # Still working on it...
 
