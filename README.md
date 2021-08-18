@@ -16,6 +16,7 @@ If you plan appropriately development time can be reduced to 30–40% for iOS wh
 
 #### **Shared code, iOS native code and Android native code**
 **Shared Code:** Shared code will have common implementation of the business logic around network calls and other core utility type of functions.(Ktor, SQL-Delight,...)
+
 So after building up Shared Code then we need to make UI for different platform
 
 
