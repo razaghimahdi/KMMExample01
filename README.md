@@ -1,7 +1,7 @@
 # KMMExample01
 ## Developed By Mahdi Razzaghi Ghaleh
 #### **Thanks to codingwithmitch**
-#### My First Kmm App
+#### First sample of Kmm App
 
 ## What is KMM?
 Allows you to write code once and use on multiple platforms such as Android and iOS.
